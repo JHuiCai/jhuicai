@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jhuicai.github.io/rllab/sitemap.xml
+Sitemap: https://rllab.github.io/sitemap.xml
